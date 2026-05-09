@@ -45,7 +45,7 @@ This project presents an AI-based constraint-aware inter-city trip planner capab
 
 | File | Description |
 |------|-------------|
-| AI_Trip_Planner-10-3.pdf | Research paper |
+| Research_paper.pdf | Research paper |
 | Source code.ipynb | Implementation notebook |
 | Architecture Diagram.png | Proposed system architecture |
 | Basic_algo working.png | Algorithm workflow |
